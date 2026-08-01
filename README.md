@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Mohamed%20Reda%20Keshk&fontSize=50&fontColor=a78bfa&animation=fadeIn&fontAlignY=40&desc=⚡%20Backend%20Developer%20%7C%7C%20Laravel%20Architect%20⚡&descAlignY=62&descSize=20&descColor=c4b5fd&stroke=a78bfa&strokeWidth=2" width="100%"/>
 
-<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=60&lines=🚀+Backend+Developer+%26+Laravel+Expert;⚡+Building+Scalable+REST+APIs;🌐+Full-Stack+with+Vue.js+%26+PHP;🔥+Clean+Code+%26+Architecture+Lover;💡+Always+Shipping+Something+New!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m7mdreda74&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
@@ -31,12 +28,10 @@
   </a>
 </p>
 
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
 
-<!-- ═══════════════ ABOUT ME SECTION ═══════════════ -->
 <img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨💻 `whoami`
@@ -44,7 +39,7 @@
 ```php
 <?php
 
-namespace App\\Developers\\Egypt;
+namespace App\Developers\Egypt;
 
 class MohamedRedaKeshk extends BackendDeveloper
 {
@@ -80,7 +75,6 @@ class MohamedRedaKeshk extends BackendDeveloper
 
 ---
 
-<!-- ═══════════════ ANIMATED SNAKE GRAPH ═══════════════ -->
 <div align="center">
 
 ## 🐍 My Contribution Snake
@@ -95,7 +89,6 @@ class MohamedRedaKeshk extends BackendDeveloper
 
 ---
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
 <div align="center">
 
 ## 🛠️ Tech Arsenal
@@ -130,71 +123,58 @@ class MohamedRedaKeshk extends BackendDeveloper
 
 ---
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
 <div align="center">
 
 ## 📊 GitHub Analytics
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=m7mdreda74&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
+<img height="180px" src="https://github-readme-stats-salesp07.vercel.app/api?username=m7mdreda74&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
 &nbsp;
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mdreda74&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180px" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=m7mdreda74&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m7mdreda74&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" alt="GitHub Streak" width="60%"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=m7mdreda74&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-<!-- ═══════════════ GITHUB TROPHIES ═══════════════ -->
 <div align="center">
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=m7mdreda74&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="100%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=m7mdreda74&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 <div align="center">
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/m7mdreda74/keshk-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m7mdreda74&repo=keshk-portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-</a>
+[![keshk-portfolio](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=m7mdreda74&repo=keshk-portfolio&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/m7mdreda74/keshk-portfolio)
 &nbsp;
-<a href="https://github.com/m7mdreda74/Library-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m7mdreda74&repo=Library-Management-System&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-</a>
+[![Library-Management-System](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=m7mdreda74&repo=Library-Management-System&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/m7mdreda74/Library-Management-System)
 &nbsp;
-<a href="https://github.com/m7mdreda74/Glovy-API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m7mdreda74&repo=Glovy-API&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-</a>
+[![Glovy-API](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=m7mdreda74&repo=Glovy-API&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/m7mdreda74/Glovy-API)
 &nbsp;
-<a href="https://github.com/m7mdreda74/Laragigs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=m7mdreda74&repo=Laragigs&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-</a>
+[![serv5](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=m7mdreda74&repo=serv5&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/m7mdreda74/serv5)
 
 </div>
 
 ---
 
-<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
 <div align="center">
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m7mdreda74&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&custom_title=Mohamed's%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=m7mdreda74&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&custom_title=Mohamed's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- ═══════════════ SKILLS PROGRESS ═══════════════ -->
 <div align="center">
 
 ## 💪 Skills Level
@@ -212,18 +192,16 @@ class MohamedRedaKeshk extends BackendDeveloper
 
 ---
 
-<!-- ═══════════════ QUOTE ═══════════════ -->
 <div align="center">
 
 ## 💬 Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%"/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-<!-- ═══════════════ CONNECT SECTION ═══════════════ -->
 <div align="center">
 
 ## 📬 Let's Connect & Build Together!
@@ -250,7 +228,6 @@ class MohamedRedaKeshk extends BackendDeveloper
 
 <br/>
 
-<!-- ═══════════════ ANIMATED FOOTER ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=28&fontColor=a78bfa&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
