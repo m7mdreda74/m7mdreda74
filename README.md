@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,40:302b63,70:24243e,100:1a1a2e&height=200&section=header&text=Mohamed%20Reda%20Keshk&fontSize=48&fontColor=fff&fontAlignY=55&desc=⚡%20Laravel%20Architect%20%7C%20Backend%20Engineer&descSize=17&descColor=c9d6df&descAlignY=75&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,40:302b63,70:24243e,100:1a1a2e&height=200&section=header&text=Mohamed%20Reda%20Keshk&fontSize=48&fontColor=fff&fontAlignY=55&desc=Laravel%20Architect%20%7C%20Backend%20Engineer&descSize=17&descColor=c9d6df&descAlignY=75&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=720&lines=Hello+World!+I'm+Mohamed+Reda+👋;5%2B+years+crafting+backends+with+Laravel;Building+REST+APIs+that+scale+🚀;Vue.js+%2B+Inertia.js+%2B+Laravel+%3D+❤️;Based+in+Mansoura%2C+Egypt+🇪🇬" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=720&lines=Hello+World!+I'm+Mohamed+Reda+%F0%9F%91%8B;5%2B+years+crafting+backends+with+Laravel;Building+REST+APIs+that+scale+%F0%9F%9A%80;Full-Stack+%3A+Vue.js+%2B+Inertia.js+%2B+Laravel;Based+in+Mansoura%2C+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 <tr>
 <td width="55%" valign="top">
 
-## 🧑💻 About Me
+## 🧑‍💻 About Me
 
 ```php
 <?php
@@ -50,8 +50,8 @@ echo "Always building something cool! 🚀";
 </td>
 <td width="45%" valign="top" align="center">
 
-<br/><br/>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="coding"/>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Developer at work"/>
 
 </td>
 </tr>
@@ -75,18 +75,18 @@ echo "Always building something cool! 🚀";
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=m7mdreda74&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0d9488&text_color=c9d6df&rank_icon=github&include_all_commits=true">
+    srcset="https://github-readme-stats-salesp07.vercel.app/api?username=m7mdreda74&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0d9488&text_color=c9d6df&rank_icon=github&include_all_commits=true">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=m7mdreda74&show_icons=true&count_private=true&hide_border=true&title_color=7c3aed&icon_color=0d9488&rank_icon=github&include_all_commits=true">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=m7mdreda74&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0d9488&text_color=c9d6df&rank_icon=github" alt="GitHub Stats"/>
+    srcset="https://github-readme-stats-salesp07.vercel.app/api?username=m7mdreda74&show_icons=true&count_private=true&hide_border=true&title_color=7c3aed&icon_color=0d9488&rank_icon=github&include_all_commits=true">
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=m7mdreda74&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0d9488&text_color=c9d6df&rank_icon=github" alt="GitHub Stats"/>
 </picture>
 &nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mdreda74&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d6df">
+    srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=m7mdreda74&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d6df">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mdreda74&layout=compact&langs_count=7&hide_border=true&title_color=7c3aed">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7mdreda74&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d6df" alt="Top Languages"/>
+    srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=m7mdreda74&layout=compact&langs_count=7&hide_border=true&title_color=7c3aed">
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=m7mdreda74&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d6df" alt="Top Languages"/>
 </picture>
 
 <br/><br/>
@@ -184,13 +184,15 @@ Showcasing all my work & skills
 
 ---
 
+<div align="center">
+
 ## 📈 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=m7mdreda74&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=0d9488&point=ffffff&area=true&hide_border=true&custom_title=Mohamed's%20Contribution%20Graph">
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=m7mdreda74&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=0d9488&point=ffffff&area=true&hide_border=true&custom_title=Mohamed%27s%20Contribution%20Graph">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=m7mdreda74&theme=minimal&color=7c3aed&line=0d9488&point=7c3aed&area=true&hide_border=true&custom_title=Mohamed's%20Contribution%20Graph">
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=m7mdreda74&theme=minimal&color=7c3aed&line=0d9488&point=7c3aed&area=true&hide_border=true&custom_title=Mohamed%27s%20Contribution%20Graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m7mdreda74&theme=tokyo-night&bg_color=0d1117&color=7c3aed&line=0d9488&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </picture>
 
@@ -214,6 +216,6 @@ Showcasing all my work & skills
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:302b63,100:0f0c29&height=140&section=footer&text=Thanks+for+stopping+by!+✨&fontSize=24&fontColor=c9d6df&animation=twinkling&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:302b63,100:0f0c29&height=140&section=footer&text=Thanks+for+stopping+by!&fontSize=24&fontColor=c9d6df&animation=twinkling&fontAlignY=70"/>
 
 </div>
